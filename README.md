@@ -31,9 +31,12 @@ Podemos crear comodamente citas con markdown.
 ## Tablas
 Con markdown podemos crear tablas  
 
-| Titulo 1 |
-|---------| 
-| Fila 1 |
+| Titulo 1 | Titulo 2 | Titulo 3 |
+|----------|----------|----------|
+|          |          |          |
+|          |          |          |
+|          |          |          |
+|          |          |          |
 
 ## Comentarios
 Ademas de todo esto podemos añadir comentarios que no se renderizaran  <!-- Este texto no se renderiza -->  por ejemplo en mitad de este texto ahi un comentario.
