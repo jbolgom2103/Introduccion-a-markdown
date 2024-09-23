@@ -31,12 +31,13 @@ Podemos crear comodamente citas con markdown.
 ## Tablas
 Con markdown podemos crear tablas  
 
-| Titulo 1   
-| Fila 1
+| Titulo 1 |
+|---------| 
+| Fila 1 |
 
 ## Comentarios
 Ademas de todo esto podemos añadir comentarios que no se renderizaran  <!-- Este texto no se renderiza -->  por ejemplo en mitad de este texto ahi un comentario.
 ## Imagenes
-Podemos añadir imagenes de dos formas desde una url externa como esta imagen ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSrrauTuMPl8QJ6UWJdEqVvFFeZcKjbR-XVA&s)
-O desde un repositorio local como la siguiente imagen
+Podemos añadir imagenes de dos formas desde una url externa como esta imagen ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSrrauTuMPl8QJ6UWJdEqVvFFeZcKjbR-XVA&s)  
+O desde un repositorio local como la siguiente imagen  
 ![](images/Imagen1.jpeg)
